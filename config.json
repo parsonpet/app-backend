@@ -1,7 +1,7 @@
 {
   "version": "0.0.10",
   "name": "config.json",
-  "versid": "id_NXRwV3V0bVFXTm9YUEtjUEdwZDRYdz09",
+  "versid": "id_UTB0SDNEWVpweU9KQ21ieEpBeVA2UT09",
   "database": {
     "host": "localhost",
     "port": 5432,
